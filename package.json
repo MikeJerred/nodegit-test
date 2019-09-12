@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "dependencies": {
+    "nodegit": "0.26.0"
+  },
+  "devDependencies": {
+    "electron": "6.0.8"
+  }
+}
